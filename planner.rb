@@ -29,7 +29,8 @@ LEFT_PAGE_MARGINS = [36, 72, 36, 36]
 RIGHT_PAGE_MARGINS = [36, 36, 36, 72]
 
 # Names by day of week, 0 is Sunday.
-OOOS_BY_WDAY = [nil, nil, ['Juan'], ['Kelly'], nil, ['Alex', 'Edna'], nil]
+OOOS_BY_WDAY = [nil, nil, nil, nil, nil, nil, nil]
+# OOOS_BY_WDAY = [nil, nil, ['J', 'C', 'T'], nil, nil, nil, nil]
 
 # Repeating tasks by day of week, 0 is Sunday. Nested index is the row.
 TASKS_BY_WDAY = [
