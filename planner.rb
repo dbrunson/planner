@@ -265,7 +265,7 @@ def daily_tasks_page date
   end
   grid([5, 2], [5, 3]).bounding_box do
     translate 6, 0 do
-      text "Notes:", color: DARK_COLOR, valign: :center
+      text "Ideas:", color: DARK_COLOR, valign: :center
     end
   end
 
